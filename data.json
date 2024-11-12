@@ -1,0 +1,14 @@
+{
+    "wv-tracker": {
+        "url": "https://matteobernard.github.io/wolvesville-tracker",
+        "doctor-role-id": "role-doctor",
+        "doctor-role-name": "Doctor",
+        "doctor-role-description": "Choose one player to protect every night. That player cannot be killed that night.",
+        "doctor-role-aura": "Aura : Good",
+        "doctor-role-team": "Team : Villager",
+        "player-username": "solyza",
+        "player-clan": "skibidi mafia",
+        "player-clan-id": "a05f370b-4215-4c97-b793-c48773241419"
+    }
+}
+  
